@@ -20,3 +20,7 @@
 
 ### Elementary Cellular Automata in C
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Rule30.gif)
+
+
+### Neural Cellular Automata in Python
+![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/NeuralCA.gif)
