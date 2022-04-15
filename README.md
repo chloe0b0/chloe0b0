@@ -6,6 +6,10 @@
 > Computational epidemiology
 >
 > Mathematics
+>
+> Computation/ Computability Theory
+>
+> Theoretical Computer Science
 
 
 
