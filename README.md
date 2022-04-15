@@ -27,3 +27,6 @@
 
 ### Matrix terminal in C
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/matrix.gif)
+
+### Linear Algebra library in C
+### Pseudorandom number generators in C
