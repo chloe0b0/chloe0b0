@@ -27,3 +27,6 @@
 
 ### Matrix terminal in C
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/matrix.gif)
+
+### Perlin Noise in Java
+![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Perlin.gif)
