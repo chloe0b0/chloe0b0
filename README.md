@@ -15,6 +15,8 @@
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Python.png)
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/java.png)
 
+### Favorite Language
+![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/C.png)
 
 ## Projects
 
