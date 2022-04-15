@@ -33,4 +33,4 @@
 
 ### Linear Algebra library in C
 ### Pseudorandom number generators in C
-### Brainfuck Intepreter in C
+### Brainfuck Interpreter in C
