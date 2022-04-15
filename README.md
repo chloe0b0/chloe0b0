@@ -30,3 +30,6 @@
 
 ### Perlin Noise in Java
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Perlin.png)
+
+### Linear Algebra library in C
+### Pseudorandom number generators in C
