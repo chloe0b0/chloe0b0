@@ -6,3 +6,12 @@
 > Computational epidemiology
 >
 > Mathematics
+
+
+
+### Languages
+> C
+>
+> Python
+>
+> C++
