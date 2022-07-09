@@ -1,3 +1,5 @@
+[![Chloe0b0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloe0b0)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Interests
 > Cellular Automata
 >
@@ -10,6 +12,10 @@
 > Computation/ Computability Theory
 >
 > Theoretical Computer Science
+>
+> Compilers/ Interpreters
+>
+> Turing Machines
 
 ### Languages
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/C.png)
