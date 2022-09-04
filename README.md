@@ -30,7 +30,29 @@
 ### Favorite Language
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/C.png)
 
+### Favorite Elementary Cellular Automata
+                            █
+                           ███
+                          ██  █
+                         ██ ████
+                        ██  █   █
+                       ██ ████ ███
+                      ██  █    █  █
+                     ██ ████  ██████
+                    ██  █   ███     █
+                   ██ ████ ██  █   ███
+                  ██  █    █ ████ ██  █
+                 ██ ████  ██ █    █ ████
+                ██  █   ███  ██  ██ █   █
+               ██ ████ ██  ███ ███  ██ ███
+              ██  █    █ ███   █  ███  █  █
+             ██ ████  ██ █  █ █████  ███████
+             
+                       Rule 30 <3 
+
 ## Projects
+
+### Rule 30 Cellular Automata PRNG
 
 ### Elementary Cellular Automata in C
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Rule30.gif)
