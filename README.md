@@ -49,24 +49,3 @@
              ██ ████  ██ █  █ █████  ███████
              
                        Rule 30 <3 
-
-## Projects
-
-### Rule 30 Cellular Automata PRNG
-
-### Elementary Cellular Automata in C
-![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Rule30.gif)
-
-
-### Neural Cellular Automata in Python
-![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/NeuralCA.gif)
-
-### Matrix terminal in C
-![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/matrix.gif)
-
-### Perlin Noise in Java
-![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Perlin.png)
-
-### Linear Algebra library in C
-### Pseudorandom number generators in C
-### Brainfuck Interpreter in C
