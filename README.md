@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe0x0&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Kat <3
+
 ### Interests
 > Cellular Automata
 >
