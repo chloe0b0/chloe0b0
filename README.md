@@ -30,7 +30,7 @@ Kat <3
 ![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Rust.png)
 
 ### Favorite Language
-![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/C.png)
+![](https://github.com/chloe0b0/chloe0b0/blob/main/imgs/Rust.png)
 
 ### Favorite Elementary Cellular Automata
                             █
