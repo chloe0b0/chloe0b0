@@ -20,16 +20,18 @@
 * Turing Machines
 
 ### Languages
-![](https://github.com/chloe0x0/chloe0x0/blob/main/imgs/C.png)
-![](https://github.com/chloe0x0/chloe0x0/blob/main/imgs/C++.png)
-![](https://github.com/chloe0x0/chloe0x0/blob/main/imgs/Python.png)
-![](https://github.com/chloe0x0/chloe0x0/blob/main/imgs/java.png)
-![](https://github.com/chloe0x0/chloe0x0/blob/main/imgs/JS.png)
+![](imgs/C.png)
+![](imgs/C++.png)
+![](imgs/Python.png)
+![](imgs/java.png)
+![](imgs/JS.png)
 <img src="https://github.com/chloe0x0/chloe0x0/blob/main/imgs/Rust.png" width = 150 height = 100></img>
 
 ### Favorite Language
 <img src="https://github.com/chloe0x0/chloe0x0/blob/main/imgs/Rust.png" width = 150 height = 100></img>
 
+### Learning
+![](imgs/pytorch.png)
 
 ### Favorite Elementary Cellular Automata
                             █
