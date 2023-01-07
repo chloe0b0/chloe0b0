@@ -31,7 +31,7 @@
 <img src="https://github.com/chloe0x0/chloe0x0/blob/main/imgs/Rust.png" width = 150 height = 100></img>
 
 ### Learning
-![](imgs/pytorch.png)
+<img src="imgs/pytorch.png" width = 214 height = 50>
 
 ### Favorite Elementary Cellular Automata
                             █
