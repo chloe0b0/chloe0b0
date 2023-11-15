@@ -1,8 +1,8 @@
 ### Interests
-Astronomy, Physics, Dynamical Systems
+Astronomy, Theoretical compsci, Mathematics, Dynamical Systems
 
 ### Languages
 C, C++, Rust, Python, JS/TS, Java
 
 ### Learning
-PyTorch, XGBoost, SQL
+PyTorch, XGBoost, SQL, Julia, MongoDB
