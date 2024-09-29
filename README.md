@@ -1,2 +1,2 @@
 ### Interests
-Astronomy, Stats, Pure Mathematics, Combinatorics
+Probability, Stats, Combinatorics, Pure Math
